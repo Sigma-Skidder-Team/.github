@@ -10,4 +10,4 @@ We skid Sigma and open source it.
 - [Sigma Boostrapper](https://github.com/Sigma-Skidder-Team/SigmaBootstrapper)
 - [Sigma Prelauncher](https://github.com/Sigma-Skidder-Team/SigmaPrelauncher)
 - [Sigma Auth Emulator](https://github.com/Sigma-Skidder-Team/SigmaAuthEmulator)
-- [Sigma Website Archive](https://github.com/Sigma-Skidder-Team/Sigma-Skidder-Team.github.io) (URL: https://sigma-skidder-team.github.io/ <- you can add /3.x/ or /2.x/ to view older versions of the official Sigma website.)
+- [Sigma Website Archive](https://github.com/Sigma-Skidder-Team/Sigma-Skidder-Team.github.io) (https://sigma-skidder-team.github.io/ <--> you can also check out [/3.x/](https://sigma-skidder-team.github.io/3.x/) or [/2.x/](https://sigma-skidder-team.github.io/2.x/) if you are feeling nostalgic.)
